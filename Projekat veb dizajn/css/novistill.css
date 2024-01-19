@@ -1,0 +1,95 @@
+ul.navbar-nav>li>a {
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+}
+
+ul.navbar-nav>li.nav-item.dropdown>.dropdown-menu>a {
+    letter-spacing: 0.15rem;
+}
+
+.list-unstyled li {
+    padding: 1.5rem;
+    border-bottom: 1px solid #343a40;
+}
+
+.list-unstyled li a {
+    color: black;
+    text-decoration: none;
+}
+
+.list-unstyled li a:hover {
+    color: #323232;
+}
+
+/*kod za galeriju*/
+
+.photo-gallery {
+    color: #323232;
+    background-color: #fff;
+}
+
+.photo-gallery .photos {
+    padding-bottom: 20px;
+}
+
+.photo-gallery .item {
+    padding-bottom: 30px;
+}
+
+html {
+    background-color: #f4f4f4;
+}
+
+.naslov {
+    padding-bottom: 20px;
+}
+
+.firma {
+    margin-top: 20px;
+}
+
+.firma p {
+    line-height: 1.6;
+}
+
+.dugme {
+    margin-bottom: 20px;
+}
+
+.tekst p {
+    font-size: 19px;
+    padding-top: 10px;
+}
+
+.mapa ol li a {
+    text-decoration: none;
+    color: #323232;
+}
+
+.mapa ol li a:hover {
+    opacity: 0.8;
+}
+
+.mapa ol {
+    line-height: 1.9;
+    font-size: 18px;
+    padding-top: 15px;
+    list-style: circle;
+}
+
+.proces h4 {
+    opacity: 0.5;
+}
+
+.proces {
+    margin-top: 15px;
+}
+
+.brend .nav-item a {
+    color: black;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+}
